@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-09-29T02:57:45.812Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="tL8a2WjZh0NcvEPnLaQL" version="13.7.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-29T03:06:15.371Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="Msq9MxGnl5HJV2LldOlJ" version="13.7.6" type="github">
   <diagram id="8LEvEpvFQfC0OAoPjHqZ" name="Page-1">
-    <mxGraphModel dx="1422" dy="740" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="2426" dy="1262" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -386,7 +386,7 @@
           <mxGeometry x="270" y="2050" width="260" height="70" as="geometry" />
         </mxCell>
         <mxCell id="wS0ZyDngpZcD1NU5ZQvb-134" value="套餐管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="590.22" y="2045" width="259.78" height="85" as="geometry" />
+          <mxGeometry x="590.22" y="2040" width="259.78" height="85" as="geometry" />
         </mxCell>
         <mxCell id="wS0ZyDngpZcD1NU5ZQvb-135" value="产品管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="915" y="2040" width="255" height="80" as="geometry" />
@@ -398,13 +398,19 @@
           <mxGeometry x="590.22" y="2190" width="260" height="70" as="geometry" />
         </mxCell>
         <mxCell id="wS0ZyDngpZcD1NU5ZQvb-138" value="设备管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="915" y="2200" width="260" height="70" as="geometry" />
+          <mxGeometry x="920" y="2190" width="255" height="70" as="geometry" />
         </mxCell>
         <mxCell id="wS0ZyDngpZcD1NU5ZQvb-139" value="运营商api" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="2320" width="260" height="80" as="geometry" />
         </mxCell>
         <mxCell id="wS0ZyDngpZcD1NU5ZQvb-140" value="代理商api" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="590.22" y="2319" width="260" height="81" as="geometry" />
+        </mxCell>
+        <mxCell id="wS0ZyDngpZcD1NU5ZQvb-141" value="计费管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="915" y="2320" width="260" height="81" as="geometry" />
+        </mxCell>
+        <mxCell id="wS0ZyDngpZcD1NU5ZQvb-142" value="sim类型套餐" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="272.79" y="2470" width="260" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
