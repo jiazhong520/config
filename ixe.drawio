@@ -1,1 +1,22 @@
-<mxfile host="app.diagrams.net" modified="2020-09-29T01:44:32.018Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="pN_j07qayxemz9EgaWXn" version="13.7.6" type="github"><diagram id="8LEvEpvFQfC0OAoPjHqZ" name="Page-1">ddHNEoIgEADgp+Eu0KSdzerSyUNnRjZhBl0HabSePh0wY6wTy7cLyw/heTOerejUFSUYwhI5En4kjFGaZtMwy9PLfkc91FbLULRCqV8QMAn60BL6qNAhGqe7GCtsW6hcZMJaHOKyO5q4aydq2EBZCbPVm5ZOec1YuvoFdK2WznR/8JlGLMXhJr0SEocv4gXhuUV0PmrGHMz8eMu7+HWnP9nPwSy07seCKVj3nibRD/HiDQ==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-09-29T01:48:32.821Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="Nq_h-haW7P1c9RccMlxN" version="13.7.6" type="github">
+  <diagram id="8LEvEpvFQfC0OAoPjHqZ" name="Page-1">
+    <mxGraphModel dx="1178" dy="641" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="wS0ZyDngpZcD1NU5ZQvb-4" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="290" y="400" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wS0ZyDngpZcD1NU5ZQvb-5" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="170" y="600" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wS0ZyDngpZcD1NU5ZQvb-6" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;供应山&lt;/font&gt;&lt;/font&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="170" y="480" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wS0ZyDngpZcD1NU5ZQvb-7" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;用户&lt;/font&gt;&lt;/font&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="170" y="360" width="30" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
